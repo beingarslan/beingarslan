@@ -18,6 +18,9 @@
 
   <a href="https://github.com/beingarslan" align="left"> <img src="https://komarev.com/ghpvc/?username=beingarslan&label=Profile Views&color=blue&style=plastic" alt="beingarslan" /> </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true)
+
+
 <a href="https://github.com/beingarslan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true&theme=dracula&line_height=27" alt="Arslan's github stats"/>
 </a>
