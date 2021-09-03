@@ -19,7 +19,8 @@
   <a href="https://github.com/beingarslan" align="left"> <img src="https://komarev.com/ghpvc/?username=beingarslan&label=Profile Views&color=blue&style=plastic" alt="beingarslan" /> </a>
 
 ![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true&count_private=true&theme=radical)
-)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beingarslan)](https://github.com/beingarslan/github-readme-stats)
 
