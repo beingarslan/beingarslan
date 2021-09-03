@@ -18,11 +18,9 @@
 
   <a href="https://github.com/beingarslan" align="left"> <img src="https://komarev.com/ghpvc/?username=beingarslan&label=Profile Views&color=blue&style=plastic" alt="beingarslan" /> </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true&count_private=true&theme=radical)
+![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true&count_private=true&theme=radical)
 )
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beingarslan)](https://github.com/beingarslan/github-readme-stats)
 
-<a href="https://github.com/beingarslan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true&theme=dracula&line_height=27" alt="Arslan's github stats"/>
-</a>
 
