@@ -110,7 +110,7 @@ Whether the challenge is architecting a microservices backend, building a real-t
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="Arslan Aslam GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true&theme=github_dark&hide_border=true" alt="Arslan Aslam GitHub Stats" />
 </p>
 
 <p align="center">
