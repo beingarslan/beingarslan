@@ -110,15 +110,7 @@ Whether the challenge is architecting a microservices backend, building a real-t
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingarslan&show_icons=true&theme=github_dark&hide_border=true" alt="Arslan Aslam GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingarslan&theme=github-dark-blue&hide_border=true" alt="Arslan Aslam GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingarslan&layout=compact&theme=github_dark&hide_border=true" alt="Arslan Aslam Top Languages" />
 </p>
 
 ---
